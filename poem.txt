@@ -8,5 +8,6 @@ Black
 red
 yellow
 green
+indigo
 
 These is my rainbow poem and Unicorn
